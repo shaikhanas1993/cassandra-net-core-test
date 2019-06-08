@@ -1,0 +1,11 @@
+/home/anas/Projects/ca/bin/Debug/netcoreapp2.1/ca.deps.json
+/home/anas/Projects/ca/bin/Debug/netcoreapp2.1/ca.runtimeconfig.json
+/home/anas/Projects/ca/bin/Debug/netcoreapp2.1/ca.runtimeconfig.dev.json
+/home/anas/Projects/ca/bin/Debug/netcoreapp2.1/ca.dll
+/home/anas/Projects/ca/bin/Debug/netcoreapp2.1/ca.pdb
+/home/anas/Projects/ca/obj/Debug/netcoreapp2.1/ca.csprojAssemblyReference.cache
+/home/anas/Projects/ca/obj/Debug/netcoreapp2.1/ca.csproj.CoreCompileInputs.cache
+/home/anas/Projects/ca/obj/Debug/netcoreapp2.1/ca.AssemblyInfoInputs.cache
+/home/anas/Projects/ca/obj/Debug/netcoreapp2.1/ca.AssemblyInfo.cs
+/home/anas/Projects/ca/obj/Debug/netcoreapp2.1/ca.dll
+/home/anas/Projects/ca/obj/Debug/netcoreapp2.1/ca.pdb
